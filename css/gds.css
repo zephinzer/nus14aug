@@ -1,0 +1,15 @@
+.clip-circle {
+  clip-path: circle(70px at center);
+}
+
+img {
+  width: 150px;
+  margin: 20px;
+}
+
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+}
